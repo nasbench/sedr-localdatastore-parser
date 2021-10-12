@@ -36,7 +36,7 @@ So far, the script provided in this repo doesn't cover/parse all of the type id 
 * **Type ID 8006**: Registry Value Event
 * **Type ID 8007**: Network Event
 
-For a complete list of all the available type id's provided by Symantec, visit this [**LINK**](https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/endpoint-detection-and-response/4-5/Event_Schemas_10/search-fields-and-descriptions-v126755396-d38e59231/event-summary-type-ids-v121987556-d38e58861.html)
+For a complete list of all the available type id's provided by Symantec, visit this [**LINK**](https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/endpoint-detection-and-response/4-6/search-fields-and-descriptions-v126755396-d38e59231/event-summary-type-ids-v121987556-d38e58861.html)
 
 ## Extend Functionality and Contribute
 
